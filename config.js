@@ -1,6 +1,6 @@
 /**
    * Create By THE JO BOT
-   * Base by Dika Ardnt
+   * Base by AFRIGNZ
 */
 
 const fs = require('fs')
@@ -17,13 +17,13 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'THE DANIXD'
+global.ownername = 'THE AFRIGNz'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6281251549899','6281251549899','6281251549899']
-global.premium = ['6281251549899']
+global.owner = ['6282268590641','6282268590641','6282268590641']
+global.premium = ['6282268590641']
 global.packname = 'The Jo Bot'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
